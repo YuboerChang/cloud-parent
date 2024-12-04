@@ -17,6 +17,7 @@
         <module>../cloud-user</module>
         <module>../cloud-gateway</module>
         <module>../cloud-other</module>
+        <module>../cloud-share</module>
     </modules>
     <url/>
     <licenses>
