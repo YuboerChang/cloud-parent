@@ -1,6 +1,6 @@
 #!/bin/bash
 
-array=("cloud-parent" "cloud-other" "cloud-gateway" "cloud-user")
+array=("cloud-parent" "cloud-other" "cloud-gateway" "cloud-user" "cloud-share")
 for item in "${array[@]}"
 do
   if [ -d ../$item ]; then
